@@ -1,0 +1,5 @@
+Nomics Cryptocurrency & Bitcoin API (1.0.0)
+
+https://english.api.rakuten.net/community/api/Coinbase
+
+https://blog.api.rakuten.net/coinbase-api-tutorial-part-1/
